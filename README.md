@@ -1,7 +1,8 @@
 # Red-vs-Blue
 Red vs. Blue Team Capstone Project This project presentation details 
-both Red and Blue Team operations within a virtualized environment. The 
-Red Team followed the following procedures in order to exploit the 
+both Red and Blue Team operations within a virtualized environment. 
+
+The Red Team followed the following procedures in order to exploit the 
 vulnerable machine.
 
 - Utilized nmap for port enumeration and discovery of the vulnerable machine. 
